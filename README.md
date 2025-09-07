@@ -11,6 +11,11 @@ I’m a 4th-year computer science student in Saint Xavier University, passionate
 - Building a Task Manager App with Java Spring Boot & Hibernate  
 - Learning more about front-end development to complement my Java skills  
 - Exploring Python for data science and analysis  
+
+## 📫 Let’s Connect
+- **GitHub:** [github.com/oskarkrzyzak](https://github.com/oskarkrzyzak)  
+- **Email:** oskar.krzyzak.ok@gmail.com  
+- **LinkedIn:** Coming soon!  
 <!--
 **oskarkrzyzak/oskarkrzyzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
