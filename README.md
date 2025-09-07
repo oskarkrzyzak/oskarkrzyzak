@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hey there, I'm Oskar Krzyżak! 👋  
 
+I’m a 4th-year computer science student in Saint Xavier University, passionate about Java, Python, and web development. 
 <!--
 **oskarkrzyzak/oskarkrzyzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
