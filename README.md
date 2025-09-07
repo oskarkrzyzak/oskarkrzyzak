@@ -22,3 +22,4 @@ I’m a 4th-year computer science student in Saint Xavier University, passionate
 - 🌍 Traveler & culture enthusiast with roots in Poland, studying in the U.S.  
 - ☕ Coffee enthusiast always experimenting with the perfect brew  
 
+This line was added locally on my computer.
