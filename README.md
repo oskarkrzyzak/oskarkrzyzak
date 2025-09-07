@@ -5,7 +5,12 @@ I’m a 4th-year computer science student in Saint Xavier University, passionate
 ## 🛠️ Technologies & Tools
 - **Languages:** Java, Python, HTML, CSS  
 - **Currently Learning:** Spring Boot, Hibernate, JavaScript ES6  
-- **Tools:** Git, GitHub, VS Code, Linux, Docker  
+- **Tools:** Git, GitHub, VS Code, Linux, Docker 
+
+## 🌱 What I'm Currently Working On
+- Building a Task Manager App with Java Spring Boot & Hibernate  
+- Learning more about front-end development to complement my Java skills  
+- Exploring Python for data science and analysis  
 <!--
 **oskarkrzyzak/oskarkrzyzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
