@@ -16,6 +16,11 @@ I’m a 4th-year computer science student in Saint Xavier University, passionate
 - **GitHub:** [github.com/oskarkrzyzak](https://github.com/oskarkrzyzak)  
 - **Email:** oskar.krzyzak.ok@gmail.com  
 - **LinkedIn:** Coming soon!  
+
+## ⚡ Fun Facts
+- 🎮 Gamer who loves strategy games  
+- 🌍 Traveler & culture enthusiast with roots in Poland, studying in the U.S.  
+- ☕ Coffee enthusiast always experimenting with the perfect brew  
 <!--
 **oskarkrzyzak/oskarkrzyzak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
